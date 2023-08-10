@@ -3,6 +3,6 @@
 ## Acutalmente resido en Chile.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manolos05)](https://github.com/manolos05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manolos05)](https://github.com/manolos05/github-readme-stats)
 
 ## Me gusta trabajar con React JS, Phyton y SQL.
